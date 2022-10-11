@@ -1,13 +1,13 @@
-package com.firstProject;
+package com.Myproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FirstProjectApplication {
+public class MyprojectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FirstProjectApplication.class, args);
+		SpringApplication.run(MyprojectApplication.class, args);
 	}
 
 }
